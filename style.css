@@ -1,0 +1,15 @@
+body{
+    color: #52777d;
+    font-family: "Trebuchet MS", Arial, sans-serif;
+}
+h1{
+    
+    color: blue;
+    font-weight: bold;
+}
+#style{
+    font-style: italic;
+}
+h2{
+    color: blue;
+}
